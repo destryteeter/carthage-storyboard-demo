@@ -1,0 +1,6 @@
+[submodule "Test"]
+	path = Test
+	url = https://github.com/destryteeter/carthage-storyboard-test-app.git
+[submodule "Test2"]
+	path = Test2
+	url = https://github.com/destryteeter/carthage-storyboard-test-framework.git
